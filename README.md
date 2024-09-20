@@ -1,4 +1,4 @@
-# PDPR
+# Projopp
 ## -Aplikacja służy do rozrywki użytkownika.
 
 ## -Aplikacja będzie miała do wyboru kilka gier, np. papier-kamień-nożyce, Orzeł-reszka, kółko i krzyżyk.
