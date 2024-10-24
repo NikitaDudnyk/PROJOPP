@@ -1,0 +1,7 @@
+v0.2 (23.10)
+    clean code
+    1. Unikaj duplikacji (DRY - Don't Repeat Yourself)
+    2. Zmieniaj nazwy funkcji
+    3. Używaj nazwanych funkcji
+    4. Uprość warunki
+    5. Czystość i jasność
